@@ -41,15 +41,15 @@ Accessing and analysing diverse news sources is cumbersome, leading to informati
 ## Architecture Diagram
 Data FLow:
 
-![alt text](https://github.com/BigDataIA-Spring2024-Sec2-Team2/Final-Project/blob/main/Architecture%20Diagram/Scrapping%20-%20load.png)
+![alt text](https://github.com/narayani99/Final-Project-News-Nest/blob/main/Architecture%20Diagram/Scrapping%20-%20load.png)
 
 Kafka Stream:
 
-![alt text](https://github.com/BigDataIA-Spring2024-Sec2-Team2/Final-Project/blob/main/Architecture%20Diagram/Kafka.png)
+![alt text](https://github.com/narayani99/Final-Project-News-Nest/blob/main/Architecture%20Diagram/Kafka.png)
 
 API:
 
-![alt text](https://github.com/BigDataIA-Spring2024-Sec2-Team2/Final-Project/blob/main/Architecture%20Diagram/User%20intercaction.png)
+![alt text](https://github.com/narayani99/Final-Project-News-Nest/blob/main/Architecture%20Diagram/User%20intercaction.png)
 
 ```
 📦 Final-Project
